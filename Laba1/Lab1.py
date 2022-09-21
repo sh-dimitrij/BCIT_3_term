@@ -99,7 +99,7 @@ def main():
     elif len_roots == 3:
         print('Три корня: {:.3f}, {:.3f} и {:.3f}'.format(answer[0], answer[1], answer[2]))
     elif len_roots == 4:
-        print('Четрые корня: {:.3f}, {:.3f}, {:.3f} и {:.3f}'.format(answer[0], answer[1], answer[2], answer[3]))
+        print('Четыре корня: {:.3f}, {:.3f}, {:.3f} и {:.3f}'.format(answer[0], answer[1], answer[2], answer[3]))
 
 # Если сценарий запущен из командной строки
 if __name__ == "__main__":
