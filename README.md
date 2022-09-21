@@ -1,2 +1,2 @@
 # BCIT_3_term
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dimitrij</a> 
+<h1 align="center">Щепетов Дмитрий ИУ5-32Б</a> 
