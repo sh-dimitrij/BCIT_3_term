@@ -16,7 +16,7 @@ ___
 | №| :sparkles: Наименование :sparkles:   |:round_pushpin: Ссылка на лабу :round_pushpin:|
 | ------------- |:------------------:| -----:|
 | :one: | Основные конструкции языка Python   | [Laba1](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba1) |
-| :two: |  |  |
+| :two: | Объектно-ориентированные возможности языка Python  | [Laba2](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba2) |
 | :three:|  |   |
 
 ___
