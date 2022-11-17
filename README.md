@@ -17,7 +17,7 @@ ___
 | ------------- |:------------------:| -----:|
 | :one: | Основные конструкции языка Python   | [Laba1](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba1) |
 | :two: | Объектно-ориентированные возможности языка Python  | [Laba2](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba2) |
-| :three:| Функциональные возможности языка Python |   |
+| :three::four: | Функциональные возможности языка Python | [Laba3-4](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba3-4)  |
 
 ___
 
