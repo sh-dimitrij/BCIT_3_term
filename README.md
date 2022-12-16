@@ -18,6 +18,8 @@ ___
 | :one: | Основные конструкции языка Python   | [Laba1](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba1) |
 | :two: | Объектно-ориентированные возможности языка Python  | [Laba2](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba2) |
 | :three::four: | Функциональные возможности языка Python | [Laba3-4](https://github.com/sh-dimitrij/BCIT_3_term/tree/main/Laba3-4)  |
+| :five: | Модульное тестирование в Python | [Laba5](https://github.com/sh-dimitrij/BCIT_3_term/blob/main/Laba5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20lab5%20%D0%91%D0%9A%D0%98%D0%A2.pdf) |
+| :six: | Разработка бота для Telegram с использованием языка Python | [Laba6](https://github.com/sh-dimitrij/BCIT_3_term/blob/main/Laba6/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20lab6%20%D0%91%D0%9A%D0%98%D0%A2.pdf) |
 
 ___
 
